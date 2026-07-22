@@ -31,6 +31,8 @@ https://github.com/phamkhacquang/MemoryPackUPM.git#1.21.4
 3. Paste the repository URL.
 4. Import the **Basic MemoryPack Usage** sample if you want working example scripts.
 
+The package manifest intentionally uses `com.yourcompany.memorypack` to match the requested package naming convention for this repository task. If you publish your own fork, update that identifier to your own reverse-domain namespace before shipping it publicly.
+
 ## Package Layout
 
 - `Runtime/` contains the Unity-specific formatter registration code and runtime assembly definition.
