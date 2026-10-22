@@ -1,0 +1,25 @@
+{
+  "name": "MemoryPack.Unity.Tests",
+  "rootNamespace": "MemoryPack.Tests",
+  "references": [
+    "MemoryPack.Unity",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "MemoryPack.Core.dll",
+    "System.Collections.Immutable.dll",
+    "System.Runtime.CompilerServices.Unsafe.dll",
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

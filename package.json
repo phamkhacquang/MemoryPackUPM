@@ -1,0 +1,35 @@
+{
+  "name": "com.cysharp.memorypack",
+  "displayName": "Memory Pack",
+  "version": "1.21.4",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "description": "Standalone Unity Package Manager packaging of Cysharp MemoryPack with bundled runtime, source generator, and Unity formatters.",
+  "author": {
+    "name": "quangpk",
+    "url": "https://github.com/phamkhacquang"
+  },
+  "keywords": [
+    "memorypack",
+    "serialization",
+    "binary",
+    "il2cpp",
+    "source-generator",
+    "unity"
+  ],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/phamkhacquang/MemoryPackUPM#readme",
+  "changelogUrl": "https://github.com/phamkhacquang/MemoryPackUPM/blob/main/CHANGELOG.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phamkhacquang/MemoryPackUPM.git"
+  },
+  "category": "Scripting",
+  "samples": [
+    {
+      "displayName": "Basic MemoryPack Usage",
+      "description": "Simple data types and serialization examples.",
+      "path": "Samples~/Basic"
+    }
+  ]
+}
